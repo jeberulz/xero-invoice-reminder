@@ -1,0 +1,28 @@
+{
+  "invoiceId": "INV-123",
+  "customer": {
+    "name": "ACME Ltd",
+    "contactEmail": "ap@acme.example",
+    "contactFirstName": "Priya"
+  },
+  "issuedDate": "2025-06-15",
+  "dueDate": "2025-07-15",
+  "currency": "GBP",
+  "amount": 2000.0,
+  "amountDue": 2000.0,
+  "daysOverdue": 30,
+  "priorRemindersSent": 1,
+  "paymentLink": "https://pay.example/INV-123",
+  "terms": "Net 30",
+  "history": {
+    "avgDaysLate": 14,
+    "lastNote": "Client said they'd pay next Friday.",
+    "totalInvoicesPast12m": 18,
+    "latePaymentRatePct": 55
+  },
+  "yourBrand": {
+    "businessName": "Bright Tools Co.",
+    "replyTo": "accounts@brighttools.example",
+    "signatureName": "Rulz"
+  }
+}

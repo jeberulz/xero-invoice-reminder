@@ -1,0 +1,14 @@
+{
+  "Friendly": {
+    "style": "Warm, polite, appreciative",
+    "cta": "Please use the payment link below when you get a moment."
+  },
+  "Neutral": {
+    "style": "Professional, concise, direct",
+    "cta": "Please arrange payment at your earliest convenience."
+  },
+  "Firm": {
+    "style": "Direct, unambiguous, policy-referencing",
+    "cta": "Please pay immediately to avoid late fees per our terms."
+  }
+}
